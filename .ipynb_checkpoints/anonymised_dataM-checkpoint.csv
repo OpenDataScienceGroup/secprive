@@ -1,0 +1,201 @@
+sex,age_group,zip,education,marital_status,evote,party
+Male,40-59,2300,Secondary/VET,Not married,1,Green
+Female,40-59,2300,Long higher,Married/separated,0,Red
+Male,40-59,2200,Long higher,Not married,0,Green
+Male,20-39,NA,Secondary/VET,NA,0,Red
+Female,40-59,NA,Secondary/VET,NA,1,Green
+Male,40-59,2300,Short/medium higher,Married/separated,0,Red
+Male,40-59,NA,Secondary/VET,NA,1,Green
+Male,20-39,2200,Secondary/VET,NA,1,Green
+Male,20-39,2200,Short/medium higher,Married/separated,0,Red
+Male,40-59,2300,Short/medium higher,NA,0,Red
+Male,20-39,NA,Short/medium higher,NA,1,Red
+Male,60+,2200,Short/medium higher,NA,0,Red
+Male,40-59,2400,Secondary/VET,Married/separated,1,Red
+Female,40-59,2400,Secondary/VET,Married/separated,0,Green
+Male,20-39,NA,Secondary/VET,NA,0,Red
+Male,40-59,2400,Long higher,Not married,0,Red
+Male,60+,2300,Secondary/VET,Married/separated,0,Green
+Female,40-59,2400,Secondary/VET,Not married,0,Red
+Female,60+,2100,Primary,Not married,0,Green
+Female,20-39,2100,Secondary/VET,Not married,0,Green
+Female,20-39,2200,Short/medium higher,Not married,0,Red
+Male,40-59,NA,Secondary/VET,NA,0,Red
+Female,40-59,NA,Short/medium higher,NA,1,Green
+Male,60+,2300,Primary,Married/separated,0,Red
+Male,20-39,NA,Short/medium higher,NA,0,Green
+Female,40-59,2200,Secondary/VET,Married/separated,0,Red
+Female,40-59,2400,Primary,Married/separated,1,Green
+Female,20-39,2300,Long higher,Not married,0,Green
+Female,20-39,2300,Long higher,Not married,1,Red
+Female,20-39,2300,Secondary/VET,Not married,1,Green
+Female,60+,2300,Primary,Not married,0,Green
+Female,40-59,2400,Primary,Married/separated,0,Green
+Female,40-59,2200,Secondary/VET,Married/separated,0,Red
+Male,60+,NA,Secondary/VET,NA,0,Green
+Male,40-59,NA,Secondary/VET,NA,1,Green
+Female,40-59,NA,Secondary/VET,Not married,0,Green
+Female,60+,2400,Short/medium higher,Married/separated,0,Red
+Female,20-39,2300,Long higher,Not married,1,Red
+NA,60+,NA,Primary,NA,1,Green
+Female,20-39,2300,Primary,NA,0,Green
+Female,60+,2300,Secondary/VET,Not married,0,Red
+Male,20-39,2200,Primary,NA,1,Green
+Female,60+,2400,Primary,Married/separated,0,Red
+Female,20-39,2100,Short/medium higher,Not married,0,Red
+Female,60+,2300,Short/medium higher,Not married,0,Red
+Female,20-39,2200,Primary,NA,0,Green
+Male,20-39,2100,Short/medium higher,Not married,1,Green
+Male,20-39,NA,Secondary/VET,NA,0,Green
+Female,40-59,2200,Secondary/VET,Married/separated,0,Green
+Male,60+,2400,Primary,Married/separated,0,Green
+NA,60+,NA,Secondary/VET,NA,1,Red
+Female,40-59,2400,Primary,Married/separated,1,Green
+Female,40-59,NA,Primary,NA,0,Green
+Female,20-39,NA,Short/medium higher,NA,1,Red
+NA,60+,NA,Secondary/VET,NA,1,Green
+Male,40-59,2200,Secondary/VET,Not married,0,Red
+Female,40-59,2200,Short/medium higher,Not married,0,Red
+Female,20-39,2200,Secondary/VET,Not married,0,Green
+Female,40-59,2300,Short/medium higher,Married/separated,0,Red
+Female,40-59,NA,Long higher,NA,1,Red
+Female,20-39,2300,Primary,Not married,1,Green
+Female,20-39,2300,Secondary/VET,Not married,0,Red
+Female,60+,2200,Secondary/VET,NA,0,Red
+Male,20-39,2100,Secondary/VET,Not married,0,Green
+Female,40-59,2400,Secondary/VET,Married/separated,0,Green
+Male,20-39,NA,Long higher,NA,1,Green
+Female,60+,2400,Secondary/VET,Married/separated,0,Green
+Female,20-39,NA,Secondary/VET,NA,1,Green
+Male,20-39,2200,Short/medium higher,Married/separated,0,Green
+Male,40-59,2400,Secondary/VET,Married/separated,1,Green
+Male,20-39,2100,Not stated,Not married,0,Green
+Female,20-39,2200,Secondary/VET,Not married,0,Green
+Female,60+,2400,Secondary/VET,Not married,0,Green
+Male,40-59,2400,Long higher,Not married,0,Red
+Female,40-59,2300,Long higher,NA,1,Green
+Female,20-39,2100,Secondary/VET,NA,1,Green
+Female,20-39,2200,Secondary/VET,NA,0,Green
+Female,60+,2300,Secondary/VET,Not married,0,Green
+Male,60+,2400,Secondary/VET,Not married,0,Red
+Female,60+,2100,Short/medium higher,Not married,0,Green
+Male,40-59,2200,Primary,Not married,0,Green
+Male,20-39,2100,Primary,Not married,0,Green
+Male,60+,NA,Short/medium higher,NA,1,Red
+Female,20-39,2300,Secondary/VET,Not married,1,Green
+Female,20-39,2100,Long higher,Not married,0,Green
+Female,60+,2400,Primary,Married/separated,0,Green
+Female,40-59,2400,Long higher,Married/separated,1,Green
+Female,40-59,2300,Short/medium higher,NA,1,Green
+Female,40-59,2300,Short/medium higher,Married/separated,0,Green
+Male,40-59,NA,Short/medium higher,Not married,1,Green
+Male,40-59,2300,Short/medium higher,NA,0,Red
+Female,20-39,2200,Secondary/VET,NA,1,Green
+Female,60+,2400,Primary,Not married,0,Green
+Female,20-39,2200,Secondary/VET,Not married,1,Green
+Female,40-59,2300,Secondary/VET,Married/separated,0,Green
+Male,20-39,2200,Long higher,NA,1,Green
+Female,40-59,2400,Short/medium higher,Not married,1,Green
+Female,40-59,2400,Secondary/VET,Not married,0,Green
+Female,40-59,NA,Secondary/VET,Not married,0,Red
+Female,60+,2200,Primary,NA,0,Green
+Male,20-39,2100,Secondary/VET,NA,0,Green
+Male,60+,NA,Secondary/VET,NA,1,Red
+Male,60+,NA,Short/medium higher,NA,1,Red
+Male,40-59,2400,Short/medium higher,Married/separated,1,Green
+Female,40-59,2300,Secondary/VET,NA,0,Green
+Female,60+,2400,Primary,Married/separated,0,Red
+Female,40-59,2400,Primary,Not married,0,Green
+Male,40-59,2200,Secondary/VET,NA,0,Green
+Male,60+,2400,Secondary/VET,Not married,0,Red
+Female,40-59,2400,Short/medium higher,Not married,0,Green
+Female,20-39,2300,Primary,NA,0,Green
+Female,60+,2300,Secondary/VET,Married/separated,0,Red
+Female,40-59,2200,Secondary/VET,Married/separated,0,Green
+Male,20-39,2100,Secondary/VET,Not married,1,Green
+Female,20-39,2300,Secondary/VET,Not married,1,Green
+Female,60+,2200,Long higher,Not married,0,Red
+Male,60+,2400,Long higher,Married/separated,0,Green
+Male,60+,2200,Secondary/VET,NA,0,Green
+Male,40-59,NA,Long higher,NA,0,Green
+Female,20-39,2300,Primary,NA,0,Green
+Female,20-39,2100,Secondary/VET,Not married,1,Green
+Male,20-39,2100,Secondary/VET,NA,1,Green
+Male,40-59,2300,Short/medium higher,Married/separated,0,Red
+Female,20-39,2100,Secondary/VET,Not married,1,Green
+Female,40-59,2400,Secondary/VET,Married/separated,0,Red
+Female,20-39,NA,Primary,NA,1,Green
+Male,60+,NA,Short/medium higher,NA,1,Red
+Male,20-39,2100,Secondary/VET,Not married,0,Green
+Male,60+,NA,Short/medium higher,NA,0,Red
+Male,40-59,2400,Primary,Not married,0,Green
+Male,20-39,2200,Long higher,Married/separated,0,Green
+Female,60+,2300,Long higher,Married/separated,0,Red
+Male,40-59,2400,Secondary/VET,Not married,0,Green
+Female,40-59,2400,Short/medium higher,Not married,1,Red
+Male,60+,2400,Secondary/VET,Married/separated,0,Red
+Female,60+,2300,Short/medium higher,Married/separated,0,Red
+Female,60+,2400,Not stated,Not married,0,Green
+Male,60+,2400,Primary,Not married,0,Green
+Female,40-59,2200,Short/medium higher,Married/separated,0,Red
+Female,40-59,2200,Primary,Married/separated,0,Red
+Female,20-39,2200,Primary,Not married,0,Green
+Male,20-39,2100,Secondary/VET,Not married,0,Green
+Female,40-59,2400,Long higher,Not married,0,Green
+Male,60+,NA,Short/medium higher,NA,1,Red
+Female,40-59,2300,Short/medium higher,NA,1,Red
+Female,60+,2300,Not stated,Not married,0,Red
+Male,60+,2400,Primary,Married/separated,0,Red
+Female,60+,2400,Primary,Married/separated,0,Green
+Female,40-59,2200,Secondary/VET,Not married,0,Red
+Male,20-39,2200,Secondary/VET,Not married,0,Green
+Female,40-59,2300,Secondary/VET,NA,0,Red
+Male,20-39,2100,Secondary/VET,Not married,1,Green
+Male,40-59,2200,Short/medium higher,NA,0,Green
+Female,40-59,2400,Long higher,Not married,0,Green
+Female,20-39,2200,Primary,Not married,0,Green
+Male,60+,NA,Secondary/VET,NA,0,Green
+Female,20-39,2100,Long higher,Not married,1,Green
+Male,20-39,2200,Short/medium higher,Not married,0,Green
+Male,40-59,2400,Primary,NA,0,Green
+Female,60+,2400,Long higher,Married/separated,0,Red
+Female,20-39,2100,Secondary/VET,Not married,1,Green
+Male,20-39,NA,Short/medium higher,NA,1,Green
+Female,20-39,2200,Secondary/VET,Not married,1,Green
+Male,60+,2400,Secondary/VET,Married/separated,0,Green
+Male,20-39,2100,Short/medium higher,Not married,1,Green
+Female,60+,2200,Long higher,Not married,0,Green
+Female,60+,2100,Secondary/VET,Not married,0,Red
+Male,60+,2300,Long higher,NA,0,Red
+Male,20-39,2100,Primary,Not married,0,Green
+Male,20-39,2200,Short/medium higher,Not married,0,Green
+Male,40-59,2300,Secondary/VET,Married/separated,0,Green
+Female,40-59,2200,Secondary/VET,Not married,0,Green
+Female,40-59,2400,Secondary/VET,Not married,1,Green
+Female,60+,2400,Secondary/VET,Not married,0,Red
+Male,60+,2400,Short/medium higher,Married/separated,0,Green
+Female,40-59,2200,Secondary/VET,Not married,0,Green
+Male,40-59,2300,Secondary/VET,Married/separated,0,Red
+Male,40-59,2400,Long higher,NA,1,Green
+Male,60+,2200,Short/medium higher,NA,0,Red
+Male,40-59,2400,Secondary/VET,Married/separated,1,Green
+Male,40-59,2300,Long higher,Not married,1,Red
+Female,60+,2200,Secondary/VET,NA,0,Green
+Male,20-39,2200,Primary,Not married,0,Green
+Male,60+,2300,Long higher,Married/separated,0,Red
+Female,20-39,2200,Short/medium higher,NA,0,Green
+Female,40-59,2400,Secondary/VET,Not married,0,Red
+Male,40-59,2400,Long higher,Not married,0,Red
+Male,60+,2400,Primary,Not married,0,Green
+Female,40-59,2400,Secondary/VET,Married/separated,1,Green
+Female,20-39,2200,Secondary/VET,Not married,1,Red
+Male,40-59,2400,Short/medium higher,Married/separated,1,Green
+Female,20-39,2100,Short/medium higher,Not married,1,Red
+Male,20-39,2100,Primary,Not married,0,Green
+Male,60+,2400,Short/medium higher,Not married,0,Red
+Female,40-59,2300,Primary,Married/separated,0,Red
+Female,20-39,2200,Primary,Not married,0,Green
+Male,60+,2400,Primary,Married/separated,0,Green
+Male,40-59,NA,Long higher,NA,0,Green
+Male,20-39,NA,Secondary/VET,NA,1,Green
+Female,20-39,2300,Secondary/VET,NA,1,Red
